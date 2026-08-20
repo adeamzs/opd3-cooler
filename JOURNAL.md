@@ -28,3 +28,13 @@ I made multiple iterations of the clip on until it fit unto my tablet.Afterwards
 <img width="3120" height="4160" alt="IMG20260819231118" src="https://github.com/user-attachments/assets/5bbd144d-fc7b-4912-8e4e-5d46e06ac4af" />
 
 *Total time spent:6h*
+
+# August 20th:Finishing
+
+I finished the fan mounting holes,made the side case for electronics.Now i needed a way to open the case,and open the mesh. I originally wanted to make a print in place hinge,but i made a slide in door for the case and a slide in mesh,so i could open the device up,fix and or upgrade components.I made my Bill Of Materials,but i had a really hard time doing so,because aliexpress has large duties.So,i had to look at local stores for the parts i needed,which took some time finding but i found them in the end.
+
+<img width="1512" height="868" alt="Screenshot 2026-08-20 at 14 39 38" src="https://github.com/user-attachments/assets/d863c705-b3f9-48ff-98da-2e77036926f0" />
+
+<img width="1512" height="982" alt="Screenshot 2026-08-20 at 14 25 51" src="https://github.com/user-attachments/assets/150214fc-fc80-4350-9539-fdffcac937f2" />
+
+*Total time spent:5h*
