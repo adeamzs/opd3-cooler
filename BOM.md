@@ -9,6 +9,6 @@
 | MT3608 | To step the 18650 voltage up to 12 V | Techfun | €0.85 | [Techfun – MT3608 step-up converter](https://techfun.sk/produkt/step-up-menic-mt3608/) | 1 |
 | 18650 | To power everything | Techfun | €5.80 | [Techfun – 18650 10C HIGH DISCHARGE](https://techfun.sk/produkt/18650-li-ion-bateria-10c-high-discharge-rozne-typy/) | 1 |
 | TP4056 USB-C | To charge the 18650 | Techfun | €0.90 | [Techfun – TP4056 USB-C + protection](https://techfun.sk/produkt/nabijaci-modul-pre-litiove-baterie-tp4056-ochranny-obvod-rozne-typy/) | 1 |
-| Heatsink 40×40×11 mm | Small heatsink for electronics | Techfun | €0.65 | [Techfun – 40×40×11 mm heatsink](https://techfun.sk/) | 1 |
+| Heatsink 40×40×11 mm | The finstack the fan blows on | Techfun | €0.65 | [Techfun – 40×40×11 mm heatsink](https://techfun.sk/) | 1 |
 | JST 1.25 2P cable | Disconnectable power connections | Techfun | €0.15 | [Techfun – JST 1.25 cable](https://techfun.sk/) | 2 |
 | 18650 holder | To hold the removable 18650 | Techfun | €0.70 | [Techfun – 18650 battery holder](https://techfun.sk/) | 1 |
