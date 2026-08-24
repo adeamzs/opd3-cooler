@@ -1,13 +1,14 @@
-| Item | Description / Purpose | Link | Qty |
-| :--- | :--- | :--- | :---: |
-| Finstack | So cooling is better | [Ampul.eu](https://ampul.eu/en/coolers/2999-aluminium-heat-sink-50x50x11mm) | 1 |
-| Copper sheet | To transfer heat | [Allegro](https://allegro.sk/produkt/plech-kreft-100-mm-x-100-x-1-5-mm-b60aa7e8-1cba-48a7-b668-a777b003444a?offerId=12158925085) | 1 |
-| Fan | To cool everything | [Alza](https://www.alza.sk/arctic-p9-max-d12804910.htm) | 1 |
-| Thermal pad | To transfer heat from tablet to copper sheet and from sheet to finstack | [Alza](https://www.alza.sk/arctic-tp-3-thermal-pad-100x100x1-5mm-d7631270.htm) | 1 |
-| Cable | To connect 12v and gnd | [Ampul.eu](https://ampul.eu/en/wires/7166-audio-cable-v03vh-h-2100-mm-b-c) | 1 |
-| WAGO clamp | To get multiple 12v and gnd outputs | [Ampul.eu](https://ampul.eu/en/terminal-blocks-conductors/5027-wago-compact-221-413-connecting-clamp) | 2 |
-| 18650 | To power everything | [Allegro](https://allegro.sk/produkt/bateria-clanok-18650-litium-ionova-li-ion-eve-3500-mah-3-6v-10a-inr18650-86d2ac0e-96ae-41ae-b9f0-545c4de29052?offerId=18302279575) | 1 |
-| Ip2312 | To charge the battery | [Allegro](https://allegro.sk/produkt/nabijacka-clankov-18650-1s-3a-2a-usb-c-ip2312-467922d7-8156-40b7-8440-c31d9d093bc8?offerId=18379969435) | 1 |
-| Mt3608 | Step up to 12v | [Allegro](https://allegro.sk/produkt/menic-napatia-elektroweb-step-up-menic-mt3608-4-28v-2a-08672aeb-7f58-4b48-b0e0-b53515de187b?offerId=17224009179) | 1 |
-| PWM generator | To control the fan | [Allegro](https://allegro.sk/produkt/prorock-pwm-generator-2-kanaly-1hz-150khz-5-30v-a1371034-11c9-4b2e-bf8d-62a6397e0e0f?offerId=18379116346) | 1 |
+# Bill of Materials
 
+| Item | Description / Purpose | Shop | Price | Link | Qty |
+|---|---|---|---:|---|---:|
+| Copper sheet | To transfer/spread heat | Allegro | €4.67 | [Allegro – 100×100×1.5 mm copper sheet](https://allegro.sk/vyhladavanie?string=meden%C3%BD+plech+100x100x1%2C5) | 1 |
+| Fan | To cool everything | Alza | €8.89 | [Alza – ARCTIC P9 Max](https://www.alza.sk/ARCTIC-P9-Max.htm) | 1 |
+| Thermal pad | To transfer heat from tablet to copper sheet and from sheet to finstack | Alza | €7.99 | [Alza – Thermal pad](https://www.alza.sk/) | 1 |
+| PWM fan controller | To control the 12 V fan and supply it from the 12 V rail | Techfun | €4.90 | [Techfun – HW-585 12 V 3-channel fan controller](https://techfun.sk/produkt/kontroler-riadenia-ventilatora-pwm-12v-3-kanaly-hw-585/) | 1 |
+| MT3608 | To step the 18650 voltage up to 12 V | Techfun | €0.85 | [Techfun – MT3608 step-up converter](https://techfun.sk/produkt/step-up-menic-mt3608/) | 1 |
+| 18650 | To power everything | Techfun | €5.80 | [Techfun – 18650 10C HIGH DISCHARGE](https://techfun.sk/produkt/18650-li-ion-bateria-10c-high-discharge-rozne-typy/) | 1 |
+| TP4056 USB-C | To charge the 18650 | Techfun | €0.90 | [Techfun – TP4056 USB-C + protection](https://techfun.sk/produkt/nabijaci-modul-pre-litiove-baterie-tp4056-ochranny-obvod-rozne-typy/) | 1 |
+| Heatsink 40×40×11 mm | Small heatsink for electronics | Techfun | €0.65 | [Techfun – 40×40×11 mm heatsink](https://techfun.sk/) | 1 |
+| JST 1.25 2P cable | Disconnectable power connections | Techfun | €0.15 | [Techfun – JST 1.25 cable](https://techfun.sk/) | 2 |
+| 18650 holder | To hold the removable 18650 | Techfun | €0.70 | [Techfun – 18650 battery holder](https://techfun.sk/) | 1 |
