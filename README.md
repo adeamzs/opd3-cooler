@@ -5,6 +5,6 @@ The 3d print has a mount for a 92mm fan,meshes for airflow. The top mesh is made
 
 The fan can be oriented to either pull or push air.Either way, the air will go over the finstack. Pull is better for ergonomics while push is better for performance,altho the gains are rather small. 
 
-<img width="1512" height="868" alt="Screenshot 2026-08-20 at 14 39 38" src="https://github.com/user-attachments/assets/d863c705-b3f9-48ff-98da-2e77036926f0" />
+<img width="1512" height="982" alt="Screenshot 2026-08-24 at 20 48 56" src="https://github.com/user-attachments/assets/4040f2ec-86d2-4ab1-89cf-e6d57b0aa3ba" />
 
 <img width="1512" height="982" alt="Screenshot 2026-08-20 at 14 25 51" src="https://github.com/user-attachments/assets/150214fc-fc80-4350-9539-fdffcac937f2" />
