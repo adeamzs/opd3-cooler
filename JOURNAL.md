@@ -38,3 +38,11 @@ I finished the fan mounting holes,made the side case for electronics.Now i neede
 <img width="1512" height="982" alt="Screenshot 2026-08-20 at 14 25 51" src="https://github.com/user-attachments/assets/150214fc-fc80-4350-9539-fdffcac937f2" />
 
 *Total time spent:5h*
+
+# August 24th:Polishing
+
+I made aesthetic changes to my model (fillets,so rounded some corners so it is less blocky) , modeled the fan,not great but for demnostration and rechecked tolerances for the slide in mechanisms.I updated my BOM to have better shipping costs, but i had to give up the IP2312 for a TP4056 because it was the only available option. 
+
+<img width="1512" height="982" alt="Screenshot 2026-08-24 at 20 48 56" src="https://github.com/user-attachments/assets/4040f2ec-86d2-4ab1-89cf-e6d57b0aa3ba" />
+
+*Total time spent:3h*
