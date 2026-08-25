@@ -41,8 +41,19 @@ I finished the fan mounting holes,made the side case for electronics.Now i neede
 
 # August 24th:Polishing
 
-I made aesthetic changes to my model (fillets,so rounded some corners so it is less blocky) , modeled the fan,not great but for demnostration and rechecked tolerances for the slide in mechanisms.I updated my BOM to have better shipping costs, but i had to give up the IP2312 for a TP4056 because it was the only available option. 
+I made aesthetic changes to my model (fillets,so rounded some corners so it is less blocky) , modeled the fan,not great but for demnostration and rechecked tolerances for the slide in mechanisms.I updated my BOM to have better shipping costs, but i had to give up the IP2312 for a TP4056 because it was the only available option.
 
 <img width="1512" height="982" alt="Screenshot 2026-08-24 at 20 48 56" src="https://github.com/user-attachments/assets/4040f2ec-86d2-4ab1-89cf-e6d57b0aa3ba" />
 
 *Total time spent:3h*
+
+# August 25th:Button
+
+I realized today that i forgot to add a button to turn the fan on and off.I went to my printe room and grabbed a button i have lots of at home and took measurements of it.I afterwards made a hole in my model for it,im expecting it to be a friction fit,if not ill glue it in.I also made a build guide for the project.
+
+<img width="1512" height="982" alt="Screenshot 2026-08-25 at 15 22 59" src="https://github.com/user-attachments/assets/440bce68-eb68-49f6-960c-1c7cd3205a6e" />
+
+<img width="1200" height="1600" alt="viber_image_2026-08-25_15-27-55-494" src="https://github.com/user-attachments/assets/60bda32a-8c96-4936-865e-a5d01d91506b" />
+
+*Total time spent:1h*
+
