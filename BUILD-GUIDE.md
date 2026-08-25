@@ -1,11 +1,14 @@
 *Build Guide*
 
+What you need:BOM parts,printed model,double sided tape,2 second glue,heat shrink.
+
+
 *Electrical*
 
-To build this you will need:BOM parts,printed model,double sided tape,2 second glue.
+To build this you will need:BOM parts,printed model,double sided tape,2 second glue,heat shrink
 first,solder the JST connectors (tp4056 b- , b+ fe/male) then on the 18650 holder cut a part of wire (for mt3608 to pwm regulator)
 then solder jst on the reamining wire of holder(- and + fe/male depends on tp4056 type) . Solder jst (fe/male) on tp4056 out+ ,out- , cut the wire + part of the wire in half and solder on a button.Then resolder the jst connector on the other end.Solder on middle and any other pin.Ground is only one not cut. and on the mt3608 vin+ , vin- (fe/male depends on tps out)
-then get the cable from the 18650 holder and solder it to mts vout+ , vout- 
+then get the cable from the 18650 holder and solder it to mts vout+ , vout-. Dont forget to put heat shrink on the cables!
 
 *Mechanical*
 
