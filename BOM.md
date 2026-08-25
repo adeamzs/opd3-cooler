@@ -12,4 +12,4 @@
 | Heatsink 40×40×11 mm | The finstack the fan blows on | Techfun | €0.65 | [Techfun – 40×40×11 mm heatsink](https://techfun.sk/) | 1 |
 | JST 1.25 2P cable | Disconnectable power connections | Techfun | €0.15 | [Techfun – JST 1.25 cable](https://techfun.sk/) | 2 |
 | 18650 holder | To hold the removable 18650 | Techfun | €0.70 | [Techfun – 18650 battery holder](https://techfun.sk/) | 1 |
-| Button | to turn the fan on and off | Techfun | €0.15 | [Techfun – Button] [Techfun – Button](https://techfun.sk/produkt/tlacidlo-6-pin-dpdt-uzamykatelne/) | 1 |
+| Button | to turn the fan on and off | Techfun | €0.15 |[Techfun – Button](https://techfun.sk/produkt/tlacidlo-6-pin-dpdt-uzamykatelne/) | 1 |
