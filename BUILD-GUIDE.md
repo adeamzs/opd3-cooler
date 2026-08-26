@@ -13,7 +13,9 @@ then get the cable from the 18650 holder and solder it to mts vout+ , vout-. Don
 *Mechanical*
 
 cut the 100x100 copper sheet into 50x50mm (or if you can buy a cut 50X50 sheet),glue it into the hole inside of the fan chamber.
-use double sided tape to keep electronics in place and use friction fit/glue the button. inside the electronics compartment.
+put one sheet of the thernal pad onto the bottom and top. on the top,put the heatsink on it and if you want cut around it.
+cut the thermal pad into four 50x50 sheets.
+use double sided tape to keep electronics in place and use friction fit/glue the button, inside the electronics compartment.
 then,orient the fan so its PWM connector is in immediate proximity to the hole between fan chamber and electronics compartment,so you can route the pwm cable inside the compartment.
 screw in the fan,plug in all the jsts .Now you will need to configure settings on the pwm controller.The controller comes with a thermistor and piezo buzzer.
 Use these if you like,but thermistor isnt gonna work properly for the temperature based pwm control of the board because you cant put it close to the hotspot.
