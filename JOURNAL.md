@@ -58,5 +58,5 @@ I realized today that i forgot to add a button to turn the fan on and off.I went
 
 <img width="1200" height="1600" alt="viber_image_2026-08-25_15-27-55-494" src="https://github.com/user-attachments/assets/60bda32a-8c96-4936-865e-a5d01d91506b" />
 
-*Total time spent:1h*
+*Total time spent:1.5h*
 
