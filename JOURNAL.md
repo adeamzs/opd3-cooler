@@ -17,7 +17,7 @@ I had some issues with Onshape,and how to start but i figured it out on my own.
 
 # August 19th:Prototyping,Cad and Research
 
-I made multiple iterations of the clip on until it fit unto my tablet.Afterwards i went to look at what parts id use,cause they would decide how i make the chassis in cad.After making the chassis,i needed to make a mesh,unfortunately onshape didnt have the right tools for this,so i downloaded a community made one,grid extrude.Now i had to make a fit for my copper sheet,so i made a lip-style cutout,where i will glue the plate.Then i started making mounts for a 80x80mm fan,but ive got to finish it tmrw.My brain was smoking while making the model,cause ive never seen cad before.
+I made multiple iterations of the clip on until it fit unto my tablet.Afterwards i went to look at what parts id use,cause they would decide how i make the chassis in cad.After making the chassis,i needed to make a mesh.I was trying all tools for 20 mins but then i stumbled onto onshape search and found a community made tool to make meshes.I was saved! Its named grid extrude.Afterwards i had to make a cut-out for my copper sheet,so i made a lip-style cutout,where the plate would be glued. Then i started making mounts for a 92x92mm fan,but ive set it aside for tmrw.My brain was like on overdrive while making the model,cause ive never seen cad before in my life.
 
 <img width="1512" height="867" alt="Screenshot 2026-08-19 at 23 08 09" src="https://github.com/user-attachments/assets/d2e8bfe8-ef5a-4390-90ad-c1bb0f706c6f" />
 
@@ -31,7 +31,7 @@ I made multiple iterations of the clip on until it fit unto my tablet.Afterwards
 
 # August 20th:Finishing
 
-I finished the fan mounting holes,made the side case for electronics.Now i needed a way to open the case,and open the mesh. I originally wanted to make a print in place hinge,but i made a slide in door for the case and a slide in mesh,so i could open the device up,fix and or upgrade components.I made my Bill Of Materials,but i had a really hard time doing so,because aliexpress has large duties.So,i had to look at local stores for the parts i needed,which took some time finding but i found them in the end.
+I finished the fan mounting holes,made the side case for electronics.Now i needed a way to open the case,and open the cooling part. I originally wanted to make a print in place hinge,but i made a slide in door for the case and a slide in mesh for the cooling area,so i could open the device up,fix and or upgrade components.I made my Bill Of Materials,but i had a really hard time doing so,because aliexpress has large duties (thnx EU).So i had to look at local stores for the parts i needed,which took some time finding but i found them in the end.
 
 <img width="1512" height="868" alt="Screenshot 2026-08-20 at 14 39 38" src="https://github.com/user-attachments/assets/d863c705-b3f9-48ff-98da-2e77036926f0" />
 
@@ -41,7 +41,7 @@ I finished the fan mounting holes,made the side case for electronics.Now i neede
 
 # August 24th:Polishing
 
-I made aesthetic changes to my model (fillets,so rounded some corners so it is less blocky) , modeled the fan,not great but for demnostration and rechecked tolerances for the slide in mechanisms.I updated my BOM to have better shipping costs, but i had to give up the IP2312 for a TP4056 because it was the only available option.
+I made aesthetic changes to my model (fillets,so rounded some corners so it is less blocky) , modeled the fan,not great but for demonstration and rechecked tolerances for the slide in mechanisms.I updated my BOM to have better shipping costs, but i had to give up the IP2312 for a TP4056 because it was the only viable option.
 
 <img width="1512" height="982" alt="Screenshot 2026-08-24 at 20 48 56" src="https://github.com/user-attachments/assets/4040f2ec-86d2-4ab1-89cf-e6d57b0aa3ba" />
 
@@ -49,7 +49,7 @@ I made aesthetic changes to my model (fillets,so rounded some corners so it is l
 
 # August 25th:Button
 
-I realized today that i forgot to add a button to turn the fan on and off.I went to my printe room and grabbed a button i have lots of at home and took measurements of it.I afterwards made a hole in my model for it,im expecting it to be a friction fit,if not ill glue it in.I also made a build guide for the project.
+I realized today that i forgot to add a button to turn the fan on and off.I went to my printer room and grabbed a button, i have lots of at home and took measurements of it.I afterwards made a hole in my model for it,im expecting it to be a friction fit,if not ill glue it in.I also made a build guide for the project.
 
 <img width="1512" height="982" alt="Screenshot 2026-08-25 at 15 22 59" src="https://github.com/user-attachments/assets/440bce68-eb68-49f6-960c-1c7cd3205a6e" />
 
