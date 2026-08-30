@@ -27,6 +27,9 @@ I made multiple iterations of the clip on until it fit unto my tablet.Afterwards
 
 <img width="3120" height="4160" alt="IMG20260819231118" src="https://github.com/user-attachments/assets/5bbd144d-fc7b-4912-8e4e-5d46e06ac4af" />
 
+<img width="1600" height="1200" alt="0-02-05-9425e5e6087ca703652d303e0ebee4aec1cf51b96bcc39fce5afede28ed931f9_224c4ae182f" src="https://github.com/user-attachments/assets/dc2702e1-18ad-40a8-b0f1-ecb4faafac23" />
+
+
 *Total time spent:6h*
 
 # August 20th:Finishing
