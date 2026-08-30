@@ -13,3 +13,5 @@
 | JST 1.25 2P cable | Disconnectable power connections | Techfun | €0.15 | [Techfun – JST 1.25 cable](https://techfun.sk/) | 2 |
 | 18650 holder | To hold the removable 18650 | Techfun | €0.70 | [Techfun – 18650 battery holder](https://techfun.sk/) | 1 |
 | Button | to turn the fan on and off | Techfun | €0.15 |[Techfun – Button](https://techfun.sk/produkt/tlacidlo-6-pin-dpdt-uzamykatelne/) | 1 |
+| M3 Heat inserts| to be able to mount the fan| | | any will do,got em at home | 4 |
+|M3 screws| To screw in the fan| | any will do,got em at home | 4 |
