@@ -12,6 +12,9 @@ I had some issues with Onshape,and how to start but i figured it out on my own.
 
 <img width="1512" height="869" alt="Screenshot 2026-08-18 at 20 46 20" src="https://github.com/user-attachments/assets/91bbf7b8-fdd2-4ed5-bbfd-ff0ed64ab2ab" />
 
+<img width="1512" height="982" alt="Screenshot 2026-08-19 at 15 13 26" src="https://github.com/user-attachments/assets/52152e84-b141-47cd-b4e0-decfeff85cb6" />
+
+
 
 *Total time spent:1.5h*
 
@@ -29,6 +32,10 @@ I made multiple iterations of the clip on until it fit unto my tablet.Afterwards
 
 <img width="1600" height="1200" alt="0-02-05-9425e5e6087ca703652d303e0ebee4aec1cf51b96bcc39fce5afede28ed931f9_224c4ae182f" src="https://github.com/user-attachments/assets/dc2702e1-18ad-40a8-b0f1-ecb4faafac23" />
 
+<img width="1512" height="869" alt="Screenshot 2026-08-19 at 22 25 52" src="https://github.com/user-attachments/assets/eda1a017-fd89-4a5a-becd-e85c1d8e16d3" />
+
+<img width="1512" height="982" alt="Screenshot 2026-08-20 at 11 31 16" src="https://github.com/user-attachments/assets/bfcdb402-2c07-42ce-8609-5edab5c114c3" />
+
 
 *Total time spent:6h*
 
@@ -39,6 +46,9 @@ I finished the fan mounting holes,made the side case for electronics.Now i neede
 <img width="1512" height="868" alt="Screenshot 2026-08-20 at 14 39 38" src="https://github.com/user-attachments/assets/d863c705-b3f9-48ff-98da-2e77036926f0" />
 
 <img width="1512" height="982" alt="Screenshot 2026-08-20 at 14 25 51" src="https://github.com/user-attachments/assets/150214fc-fc80-4350-9539-fdffcac937f2" />
+
+<img width="1512" height="982" alt="Screenshot 2026-08-20 at 11 41 52" src="https://github.com/user-attachments/assets/3fca7737-f07c-43d6-a5fb-84aaabfae781" />
+
 
 *Total time spent:5h*
 
