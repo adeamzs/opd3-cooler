@@ -70,3 +70,9 @@ I realized today that i forgot to add a button to turn the fan on and off.I went
 
 *Total time spent:1.5h*
 
+# September 8th:Update bom to csv and readme.
+
+I updated my bom from markdown format to csv format and added a "why maks this" kinda section to the readme.
+
+*Total time spent:0.5h*
+
