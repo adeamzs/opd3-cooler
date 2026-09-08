@@ -5,7 +5,7 @@ The 3d print has a mount for a fan,meshes for airflow. The top mesh is made so y
 
 The fan can be oriented to either pull or push air.Either way, the air will go over the finstack. Pull is better for ergonomics while push is better for performance,altho the gains are rather small.
 
-Onshape link:[](https://cad.onshape.com/documents/3c457f388071a08e12b4f252/w/4df4de291808be73e0b4c8cf/e/eba3a5be513545a979cfcae8)
+Onshape link:(https://cad.onshape.com/documents/3c457f388071a08e12b4f252/w/4df4de291808be73e0b4c8cf/e/eba3a5be513545a979cfcae8)
 
 
 
