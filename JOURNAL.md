@@ -74,7 +74,8 @@ I realized today that i forgot to add a button to turn the fan on and off.I went
 
 I updated my bom from markdown format to csv format and added a "why make this" kinda section to the readme.
 
-<img width="3392" height="2359" alt="7691c172-e6ad-4b02-9b94-0bacc049cae3_with_skin" src="https://github.com/user-attachments/assets/86fd9d5b-f48e-46ee-8934-8e2de954ebf2" />
+<img width="2523" height="1406" alt="200b2d2d-9398-4acc-adab-504b1dde0898_thumb" src="https://github.com/user-attachments/assets/bb6fd843-aad0-42ab-b083-b5871310fcaf" />
+
 
 *Total time spent:0.5h*
 
