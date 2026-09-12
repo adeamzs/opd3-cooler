@@ -72,13 +72,17 @@ I realized today that i forgot to add a button to turn the fan on and off.I went
 
 # September 8th:Update bom to csv and readme.
 
-I updated my bom from markdown format to csv format and added a "why maks this" kinda section to the readme.
+I updated my bom from markdown format to csv format and added a "why make this" kinda section to the readme.
+
+<img width="3392" height="2359" alt="7691c172-e6ad-4b02-9b94-0bacc049cae3_with_skin" src="https://github.com/user-attachments/assets/86fd9d5b-f48e-46ee-8934-8e2de954ebf2" />
 
 *Total time spent:0.5h*
 
 # September 12th:Wiring Diagram
 
 Made a wiring diagram,had to look up all the terminals and connectors of the parts. Find it in build-guide.md
+
+<img width="3392" height="2359" alt="7691c172-e6ad-4b02-9b94-0bacc049cae3_with_skin" src="https://github.com/user-attachments/assets/222bfc56-e3be-4062-b47d-ab6fe0931c40" />
 
 *Total time spent:0.5h*
 
