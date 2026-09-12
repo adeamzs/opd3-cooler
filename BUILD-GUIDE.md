@@ -24,3 +24,10 @@ switch the first switch of the board, (DIP 1) on and connect the fan to FAN1 on 
 zero sound,good efficiency,and strong performance.
 If you do want higher speeds, connect to FAN2 or FAN3 and turn the dials next to them for higher pwm %.
 
+# Wiring Diagram
+
+
+<img width="3392" height="2359" alt="7691c172-e6ad-4b02-9b94-0bacc049cae3_with_skin" src="https://github.com/user-attachments/assets/69248f0b-fad8-4d3d-abec-49531f51b667" />
+
+
+
