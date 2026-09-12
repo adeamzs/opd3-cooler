@@ -76,3 +76,10 @@ I updated my bom from markdown format to csv format and added a "why maks this" 
 
 *Total time spent:0.5h*
 
+# September 12th:Wiring Diagram
+
+Made a wiring diagram,had to look up all the terminals and connectors of the parts. Find it in build-guide.md
+
+*Total time spent:0.5h*
+
+
